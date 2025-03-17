@@ -13,10 +13,19 @@ public class Main {
 
         double result = 0;
 
-        if (op == '+') {
-            result = a + b;
+        switch (op) {
+            case '+': result = a + b; break;
+            case '-': result = a - b; break;
+            case '*': result = a * b; break;
+            case '/': result = a / b; break;
+            case '%': result = a % b; break;
+            default:
+                System.out.println("Ошибка: неподдерживаемая операция.");
+                return;
         }
+
         System.out.println("Результат: " + result);
         scanner.close();
     }
 }
+

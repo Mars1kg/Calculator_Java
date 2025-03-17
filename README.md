@@ -38,3 +38,6 @@ A short report describing the project, design choices, and challenges encountere
 
 
 Добавлены еще новые фуекции: возведение в степень, квадратный корень, округление, модуль
+
+
+Добавлена история вычислений. Теперь вводя history, можно просмотреть прошлые операции

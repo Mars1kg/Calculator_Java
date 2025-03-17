@@ -41,3 +41,6 @@ A short report describing the project, design choices, and challenges encountere
 
 
 Добавлена история вычислений. Теперь вводя history, можно просмотреть прошлые операции
+
+
+![Calculator](https://github.com/Mars1kg/Calculator_Java/blob/master/Calculator.png)
